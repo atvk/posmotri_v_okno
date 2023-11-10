@@ -176,7 +176,6 @@ input[type='checkbox']:checked+.search-form__pseudo-checkbox::before {
 
 .button {
   min-height: 34px;
-  color: #FFF;
   text-align: center;
   font-family: Fira Sans Condensed;
   font-size: 18px;
